@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello world! 👋
-<br>Welcome to my personal page.<br>Here I share my code with you.<br>I am a qualified Full Stack Web Developer with a bac+2 level.<br>I am 34 years old and I live in Seine et Marne (77) and I am looking for a job.<br>I want to have a professional career rich in projects and experiences.<br>If your business is looking for a motivated Full Stack Web Developer, I would be happy to discuss a job opportunity with you.<br><br> [HERE MY PORTFOLIO](https://portfolio-wendy-wilson77.vercel.app/) <br> <br> Contact me for more information.<br>And why not work together?<br><br>You can contact me on my work phone : 06.99.17.89.98<br>or by email : wendywilson.pro.dev@gmail.com 
+
 
 
 ## 🌐 Socials:
